@@ -1,0 +1,13 @@
+Source: libdist-zilla-mintingprofile-qbit-perl
+Section: perl
+Priority: extra
+Maintainer: 2013 Sergei Svistunov <sergei-svistunov@yandex.ru>
+Build-Depends: debhelper (>= 8.0.0), perl
+Standards-Version: 3.9.4
+
+Package: libdist-zilla-mintingprofile-qbit-perl
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${perl:Depends}
+Description: Profile for create QBit packages.
+ Profile for create QBit packages.
+ dzil new -P QBit

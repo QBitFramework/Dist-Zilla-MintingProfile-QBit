@@ -1,0 +1,12 @@
+Source: {{$plugin->package_name}}
+Section: perl
+Priority: extra
+Maintainer: {{$dist->authors->[0]}}
+Build-Depends: debhelper (>= 8.0.0), perl, libqbit-perl
+Standards-Version: 3.9.4
+
+Package: {{$plugin->package_name}}
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${perl:Depends}, libqbit-perl
+Description: Short description.
+ Long description.
