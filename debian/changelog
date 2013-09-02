@@ -1,0 +1,10 @@
+libdist-zilla-mintingprofile-qbit-perl (0.001) raring; urgency=low
+
+  * Fixed .gitignore
+
+  * Fixed dist.ini
+
+  * Initial commit
+
+ -- Sergei Svistunov <sergei-svistunov@yandex.ru>  Mon, 02 Sep 2013 16:49:48 +0400
+
