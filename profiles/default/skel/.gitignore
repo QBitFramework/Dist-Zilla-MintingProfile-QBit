@@ -1,4 +1,4 @@
 /.project
 /.includepath
 /.build/*
-/{{$dist->name}}-*/*
+/{{$dist->name}}-*
