@@ -1,5 +1,5 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: {{$plugin->package_name}}l
+Upstream-Name: {{$plugin->package_name}}
 
 Files: *
 Copyright: {{$plugin->copyright}}

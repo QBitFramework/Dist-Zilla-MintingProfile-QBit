@@ -7,6 +7,6 @@ Standards-Version: 3.9.4
 
 Package: {{$plugin->package_name}}
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}, ${perl:Depends}, libqbit-perl
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${perl:Depends}, perl, libqbit-perl
 Description: Short description.
  Long description.
