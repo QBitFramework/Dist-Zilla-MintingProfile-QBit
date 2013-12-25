@@ -1,3 +1,11 @@
+libdist-zilla-mintingprofile-qbit-perl (0.003) raring; urgency=low
+
+  * Remove ppa settings
+
+  * Fixed changelog
+
+ -- Sergei Svistunov <sergei-svistunov@yandex.ru>  Wed, 25 Dec 2013 20:44:13 +0400
+
 libdist-zilla-mintingprofile-qbit-perl (0.002) raring; urgency=low
 
   * Fixed misprints
